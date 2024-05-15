@@ -71,4 +71,4 @@
 
 ###
 
-![Visitor Count](https://profile-counter.glitch.me/namanx19/count)
+![](https://komarev.com/ghpvc/?username=namanx19&color=blue&style=for-the-badge)
