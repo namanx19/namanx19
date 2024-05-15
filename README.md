@@ -70,3 +70,5 @@
 <img src="https://raw.githubusercontent.com/namanx19/namanx19/output/snake.svg" alt="Snake animation" />
 
 ###
+
+![Visitor Count](https://profile-counter.glitch.me/namanx19/count)
